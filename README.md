@@ -15,7 +15,7 @@ This project implements semantic search capabilities for fashion product data. I
 ## Technologies
 - **Python**: Core programming language
 - **Elasticsearch**: For storing and searching vector embeddings
-- **Sentence Transformers**: For generating text embeddings
+- **Sentence Transformers**: For generating text embeddings using BERT model *all-mpnet-base-v2*
 - **Pandas**: For data manipulation and processing
 - **Streamlit**: For the web interface
 
